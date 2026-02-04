@@ -1,6 +1,6 @@
 # Jeremy Goillot
 
-**CEO @ The Mobile First Company**
+**Non-technical CEO @ The Mobile First Company**
 
 ---
 
@@ -8,21 +8,25 @@
 
 I sold WordPress sites at 15. Learned Ruby on Rails at 19. Built Spendesk (now $2B) as employee #4.
 
-I don't write code anymore. But I hire people who do. And I want them to know who they'd work for.
+Now I'm a CEO. My team won't let me commit to production. Fair enough.
+
+But I still spend my nights vibe coding. Building internal tools, experimenting with AI, breaking things. This is where I share what I build and what I learn for other non-technical founders who refuse to stop shipping.
+
+If people star my repos, maybe my engineers will finally let me merge something.
 
 ---
 
 ### What We're Building
 
-**Allo** is an AI business phone for SMBs.
+**Allo** is the first agentic phone system for SMBs.
 
-You miss a call. Allo answers it. Transcribes it. Extracts the contact. Updates your CRM. You focus on your business.
+Not a voicemail. Not a call recorder. An AI that actually handles your calls, has conversations, extracts information, and takes action in your CRM.
 
-That's it. No dashboards. No training. Software that does work, not software you work on.
+We call it **RaaS: Results as a Service.** Software that does the work. Not dashboards you stare at.
 
-We call it **RaaS: Results as a Service.** The end of $75/seat subscriptions for tools you'll barely use.
+20,000+ businesses. $20M raised from Base10, Lightspeed, Emblem.
 
-20,000+ businesses. $20M raised (Base10, Lightspeed, Emblem). Miami HQ.
+**[Try Allo](https://www.withallo.com/)**
 
 ---
 
@@ -32,20 +36,17 @@ We call it **RaaS: Results as a Service.** The end of $75/seat subscriptions for
 
 **2021-2023** — Left to angel invest. 40 startups including Hightouch, Attio, Swan, Secoda, Capi Money. Built [Kara Ventures](https://kara.ventures) focused on Africa.
 
-**2023-now** — Started The Mobile First Company. Shipped Allo. Raised $20M. Building the suite.
+**2023-now** — Started The Mobile First Company. Shipped Allo. Raised $20M. Building from Miami.
 
 ---
 
-### What's Next
+### Angel Investments
 
-| Product | Status |
-|---------|--------|
-| **Allo** | Live |
-| **Expense** | Building |
-| **Invoicing** | 2025 |
-| **CRM** | 2026 |
+40+ investments through [Kara Ventures](https://kara.ventures).
 
-One problem. One app. Done right.
+Looking for: early-stage, product-led, founders who ship fast.
+
+**Send your deck:** jeremy@kara.ventures
 
 ---
 
@@ -53,5 +54,5 @@ One problem. One app. Done right.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremygoillot)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TheGoillot)
-[![Allo](https://img.shields.io/badge/Allo-withallo.com-blueviolet?style=flat)](https://withallo.com)
+[![Allo](https://img.shields.io/badge/Allo-withallo.com-blueviolet?style=flat)](https://www.withallo.com/)
 [![Kara](https://img.shields.io/badge/Kara_Ventures-kara.ventures-green?style=flat)](https://kara.ventures)
