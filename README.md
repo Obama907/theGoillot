@@ -1,6 +1,6 @@
 # Jeremy Goillot
 
-**Non-technical CEO @ The Mobile First Company**
+**Non-technical CEO @ [The Mobile First Company](https://www.desktop-software.sucks/)**
 
 ---
 
@@ -36,7 +36,7 @@ We call it **RaaS: Results as a Service.** Software that does the work. Not dash
 
 **2021-2023** — Left to angel invest. 40 startups including Hightouch, Attio, Swan, Secoda, Capi Money. Built [Kara Ventures](https://kara.ventures) focused on Africa.
 
-**2023-now** — Started The Mobile First Company. Shipped Allo. Raised $20M. Building from Miami.
+**2023-now** — Started [The Mobile First Company](https://www.desktop-software.sucks/). Shipped Allo. Raised $20M. Building from Miami.
 
 ---
 
